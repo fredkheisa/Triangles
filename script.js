@@ -1,3 +1,5 @@
+var triangles =["a" "b" "c"]
+
 function triangleTracker(){
 
         var a = parseInt(document.getElementById("a").value);

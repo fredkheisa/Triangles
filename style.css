@@ -1,0 +1,17 @@
+h1 {
+    background-color: chartreuse;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 40px;
+}
+p {
+    color: brown
+    background-color: white;
+}
+body {
+    color: aliceblue;
+    background-image: url(images/bk.jpg)
+    
+
+}
