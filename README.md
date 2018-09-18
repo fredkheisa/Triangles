@@ -3,11 +3,11 @@
   By FRED KHEISA
  Description
  {The application is called Triangles-Tracker.it contains three different triangles with three sides.
- ## Setup/Installation Requirements
+## Setup/Installation Requirements
  - The use of atom used as an editor
 - Making use of chrome so as to JavaScript
 - Use of HTML and CSS
-   ## Technologies used
+## Technologies used
    - JavaScript
   - CSS
   - HTML
