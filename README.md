@@ -13,7 +13,7 @@
   - HTML
   - Atom
      ## Support and contact details
-     for more info call +254702049058
+     for more info call https://fredkheisa.github.io/explore-triangles/
      ## License
      MIT License
  Copyright (c) (2018) [FRED KHEISA]
