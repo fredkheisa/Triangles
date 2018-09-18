@@ -14,18 +14,18 @@ Description
 - Making use of chrome so as to JavaScript
 - Use of HTML and CSS
 
-  ## Technologies used
+## Technologies used
 
   - JavaScript
   - CSS
   - HTML
   - Atom
 
-    ## Support and contact details
+## Support and contact details
 
     for more info call +254702049058
 
-    ## License
+## License
 
     MIT License
 
